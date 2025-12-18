@@ -1,4 +1,4 @@
-# Video Games Sales Analysis Dashboard
+# Case Study: North America Video Games Sales Recovery Strategy (2017)
 
 ## Project Overview & Problem Statement
 Industri video game di Amerika Utara (NA) mengalami penurunan drastis sebesar 56,05% sejak tahun 2012. Tahun 2016 mencatatkan performa terendah dengan penjualan hanya $44,93 Juta.
@@ -43,3 +43,4 @@ Berdasarkan analisis data historis, berikut adalah profil pemimpin pasar di wila
   
 ## Project Impact
 Output proyek ini adalah dashboard strategis yang membantu manajemen memantau progres target **$50,77 Juta** dan memprioritaskan alokasi sumber daya pada kategori yang paling menguntungkan.
+[**Lihat Dashboard Disini**](Dashboard.png)
