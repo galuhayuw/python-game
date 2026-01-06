@@ -22,10 +22,10 @@ Berdasarkan analisis data historis, berikut adalah profil pemimpin pasar di wila
 
 | Kategori | Leader | Total Sales (NA) |
 | :--- | :--- | :--- |
-| **Top Genre** | Action | $863.17 M |
-| **Top Rating** | E (Everyone) | $2,494.66 M |
-| **Top Platform** | X360 | $595.74 M |
-| **Top Publisher** | Nintendo | $815.86 M |
+| **Top Genre** | Action | $863.17 |
+| **Top Rating** | E (Everyone) | $2,494.66 |
+| **Top Platform** | X360 | $595.74 |
+| **Top Publisher** | Nintendo | $815.86 |
 
 **Temuan Utama:** **Rating "E" (Everyone)** adalah penyumbang pendapatan terbesar. Strategi pemulihan harus difokuskan pada konten ramah keluarga.
 ## Strategic Recommendations
